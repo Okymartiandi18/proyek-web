@@ -10,4 +10,3 @@ document.addEventListener('DOMContentLoaded', () => {
         outputText.textContent = `Terima kasih! Tombol telah diklik sebanyak ${clickCount} kali.`;
     });
 });
-        
